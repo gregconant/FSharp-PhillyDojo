@@ -1,0 +1,12 @@
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.fsprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.pdb
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.pdb
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.XML
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.fsprojResolveAssemblyReference.cache
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.dll
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\_tmpIntermediateAT\PhillyDojo.pdb
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.dll
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.pdb
+C:\development\demos\PhillyDojo\PhillyDojo\bin\AutoTest.Net\PhillyDojo.XML

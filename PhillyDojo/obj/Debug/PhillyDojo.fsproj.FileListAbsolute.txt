@@ -1,0 +1,12 @@
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.XML
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.pdb
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.fsprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.dll
+c:\users\ibm_admin\documents\visual studio 2010\Projects\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.pdb
+C:\development\demos\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.XML
+C:\development\demos\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.dll
+C:\development\demos\PhillyDojo\PhillyDojo\bin\Debug\PhillyDojo.pdb
+C:\development\demos\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.fsprojResolveAssemblyReference.cache
+C:\development\demos\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.dll
+C:\development\demos\PhillyDojo\PhillyDojo\obj\Debug\PhillyDojo.pdb
